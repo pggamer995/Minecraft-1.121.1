@@ -1,19 +1,17 @@
-🚀 PG GAMER | Ultimate Minecraft 1.21.1 Server Setup 🚀
-Welcome to the easiest way to set up your Minecraft 1.21.1 PaperMC Server using Google Colab! 🎮 No extra software needed—just run the script and start playing!
+# 🚀 PG Gamer | Minecraft 1.21.1 Server Setup
 
-🛠 Features
-✅ Automatic PaperMC 1.21.1 Installation
-✅ Fast & Optimized Server Setup
-✅ Google Colab Support – Cloud Hosting
-✅ No Technical Knowledge Required
+🎮 One-click PaperMC server setup for Minecraft 1.21.1!  
+✅ Fast, optimized, and cloud-hosted with Google Colab.  
 
-📌 How to Use?
-1️⃣ Download this .ipynb file and open it in Google Colab.
-2️⃣ Follow the instructions and press Run ▶️.
-3️⃣ Your Minecraft Server is Ready! 🏆
-4. yt video dekhoge sab samaj jaoge
+## 🔧 Features:
+- ⚡ Automatic server setup  
+- 🌩 Google Colab support  
+- 🔥 No extra software needed  
+- 🎨 Custom versions available (Paid)  
 
-🎨 Want a Custom Version or Theme?
-🔥 Looking for custom mods, themes, or advanced setups? PAID SERVICES available! Contact PG Gamer for more details.
+## 🛠 How to Use?
+1. Download `.ipynb` file from **Releases**  
+2. Open it in **Google Colab**  
+3. Click **Run** → Enjoy your server!  
 
-📢 Made with ❤️ by PG GAMER 
+🛒 Need Custom Mods or Themes? **[Contact PG Gamer]**
